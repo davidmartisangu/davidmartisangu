@@ -1,9 +1,9 @@
 # Hola, mi nombre es David Martí 👋
 ### Desarrollador Web Full-Stack 👨🏻‍💻
 
-FOTO
 
-Soy David, apasionado de la programación y tecnología blockchain actualmente me encuentro en busqueda de empleo tras haber acabado mis estudios de programación en [*ConquerBlocks*](https://www.conquerblocks.com)![Logo](https://cdn.prod.website-files.com/63c2c7b1f3d9c51c32335fb0/66470384c9a7bdda4397bd18_Favicon-CB32x32.png). Mi objetivo es convertirme en un desarrollador capaz de construir aplicaciones y soluciones que ayuden a resolver los desafíos del mundo real. 
+
+Soy David, apasionado de la programación y tecnología blockchain actualmente me encuentro en busqueda de empleo tras haber acabado mis estudios de programación en [*ConquerBlocks*](https://www.conquerblocks.com). Mi objetivo es convertirme en un desarrollador capaz de construir aplicaciones y soluciones que ayuden a resolver los desafíos del mundo real. 
 
 ## Acerca de este repositorio 📁
 
@@ -14,7 +14,7 @@ Gracias por visitar mi perfil, ¡espero tener la oportunidad de conectarnos pron
 ## Tecnologías utilizadas 🛠️
 
 # Lenguajes
-- ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&labelColor=black&color=blue)
+- <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&labelColor=black&color=blue" alt="Python Badge">
 - ![Java](https://img.shields.io/badge/Java-%23000000?style=flat&logo=java&labelColor=black&color=%23000000)
 
 # Backend 🌐
