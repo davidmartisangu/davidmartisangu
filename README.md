@@ -14,28 +14,28 @@ Gracias por visitar mi perfil, ¡espero tener la oportunidad de conectarnos pron
 ## Tecnologías utilizadas 🛠️
 
 # Lenguajes
-<img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&labelColor=black&color=blue" alt="Python">
-<img src="https://img.shields.io/badge/Java-%23000000?style=flat&logo=java&labelColor=black&color=%23000000" alt="Java">
+- ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&labelColor=black&color=blue&link=)  
+- ![Java](https://img.shields.io/badge/Java-%23000000?style=flat&logo=java&labelColor=black&color=%23000000&link=)  
 
-### Backend 🌐
-<img src="https://img.shields.io/badge/Django-%23000000?style=flat&logo=django&labelColor=black&color=%23000000" alt="Django">
-<img src="https://img.shields.io/badge/Node.js-%23000000?style=flat&logo=node.js&labelColor=black&color=%23000000" alt="Node.js">
-<img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&labelColor=black&color=%234479A1" alt="MySQL">
+# Backend 🌐  
+- ![Django](https://img.shields.io/badge/Django-%23000000?style=flat&logo=django&labelColor=black&color=%23000000&link=)  
+- ![Node.js](https://img.shields.io/badge/Node.js-%23000000?style=flat&logo=node.js&labelColor=black&color=%23000000&link=)  
+- ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&labelColor=black&color=%234479A1&link=)  
 
-### Frontend 🖥️
-<img src="https://img.shields.io/badge/-HTML5-%23000000?style=flat-square&logo=html5&logoColor=%23E34F26" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS-%231572B6?style=flat&logo=css3&labelColor=black&color=%231572B6" alt="CSS">
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&labelColor=black&color=%23F7DF1E" alt="JavaScript">
-<img src="https://img.shields.io/badge/TypeScript-%233178C6?style=flat&logo=typescript&labelColor=black&color=%233178C6" alt="TypeScript">
-<img src="https://img.shields.io/badge/ReactJS-%2361DAFB?style=flat&logo=react&labelColor=black&color=%2361DAFB" alt="ReactJS">
+# Frontend 🖥️  
+- ![HTML5](https://img.shields.io/badge/-HTML5-%23000000?style=flat-square&logo=html5&logoColor=%23E34F26&link=)  
+- ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat&logo=css3&labelColor=black&color=%231572B6&link=)  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&labelColor=black&color=%23F7DF1E&link=)  
+- ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat&logo=typescript&labelColor=black&color=%233178C6&link=)  
+- ![ReactJS](https://img.shields.io/badge/ReactJS-%2361DAFB?style=flat&logo=react&labelColor=black&color=%2361DAFB&link=)  
 
-### Database 💾
-<img src="https://img.shields.io/badge/MongoDB-%23000000?style=flat&logo=mongodb&labelColor=black&color=%23000000" alt="MongoDB">
+# Database 💾  
+- ![MongoDB](https://img.shields.io/badge/MongoDB-%23000000?style=flat&logo=mongodb&labelColor=black&color=%23000000&link=)  
 
-### Control de versiones 🔧
-<img src="https://img.shields.io/badge/Git-%23F1502F?style=flat&logo=git&labelColor=black&color=%23F1502F" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&labelColor=black&color=%23121011" alt="GitHub">
+# Control de versiones 🔧  
+- ![Git](https://img.shields.io/badge/Git-%23F1502F?style=flat&logo=git&labelColor=black&color=%23F1502F&link=)  
+- ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&labelColor=black&color=%23121011&link=)  
 
-### Otros
-<img src="https://img.shields.io/badge/Linux-%23000000?style=flat&logo=linux&labelColor=black&color=%23000000" alt="Linux">
-<img src="https://img.shields.io/badge/WordPress-%23000000?style=flat&logo=wordpress&labelColor=black&color=%23000000" alt="WordPress">
+# Otros  
+- ![Linux](https://img.shields.io/badge/Linux-%23000000?style=flat&logo=linux&labelColor=black&color=%23000000&link=)  
+- ![WordPress](https://img.shields.io/badge/WordPress-%23000000?style=flat&logo=wordpress&labelColor=black&color=%23000000&link=)
