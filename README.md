@@ -1,7 +1,7 @@
 # Hola, mi nombre es David Martí 👋
 ### Desarrollador Web Full-Stack 👨🏻‍💻
 
-![github image](img-bio.png.png)
+![github image](img-bio.png)
 
 Soy David, apasionado de la programación y tecnología blockchain actualmente me encuentro en busqueda de empleo tras haber acabado mis estudios de programación en [*ConquerBlocks*](https://www.conquerblocks.com). Mi objetivo es convertirme en un desarrollador capaz de construir aplicaciones y soluciones que ayuden a resolver los desafíos del mundo real. 
 
