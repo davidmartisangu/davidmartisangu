@@ -3,13 +3,20 @@
 
 ![github image](img-bio.png)
 
-Soy David, apasionado de la programación y tecnología blockchain actualmente me encuentro en busqueda de empleo tras haber acabado mis estudios de programación en [*ConquerBlocks*](https://www.conquerblocks.com). Mi objetivo es convertirme en un desarrollador capaz de construir aplicaciones y soluciones que ayuden a resolver los desafíos del mundo real. 
+Soy David, apasionado de la programación y tecnología blockchain actualmente me encuentro en busqueda de retos laborales tras haber acabado mis estudios de programación en [*ConquerBlocks*](https://www.conquerblocks.com). Mi objetivo es convertirme en un desarrollador capaz de construir aplicaciones y soluciones que ayuden a resolver los desafíos del mundo real. 
 
 ## Acerca de este repositorio 📁
 
 Bienvenidos a mi perfil de Github! En este repositorio encontrarás la resolución de ejercicios que he ido haciendo a lo largo de mi estudio utilizando diferentes lenguajes.
 
 Gracias por visitar mi perfil, ¡espero tener la oportunidad de conectarnos pronto y construir algo increíble juntos!
+
+## Repositorios destacados
+- [Proyectos Python](https://github.com/davidmartisangu/Python-projects)
+- [Proyectos React](https://github.com/davidmartisangu/ReactJs)
+- [Proyectos DJango](https://github.com/davidmartisangu/django-projects)
+- [Proyectos NodeJS](https://github.com/davidmartisangu/NodeJS_project)
+- [Proyectos HTML & CSS](https://github.com/davidmartisangu/HTML-CSS-projects)
 
 ## Tecnologías utilizadas 🛠️
 
@@ -39,3 +46,4 @@ Gracias por visitar mi perfil, ¡espero tener la oportunidad de conectarnos pron
 ### Otros
 - ![Linux](https://img.shields.io/badge/Linux-%23000000?style=flat&logo=linux&labelColor=black&color=%23000000)
 - ![WordPress](https://img.shields.io/badge/WordPress-%23000000?style=flat&logo=wordpress&labelColor=black&color=%23000000)
+- ![WordPress](https://img.shields.io/badge/WordPress-%23000000?style=flat&logo=wordpress&labelColor=bluek&color=%23000000)
