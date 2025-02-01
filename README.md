@@ -45,4 +45,4 @@ Gracias por visitar mi perfil, ¡espero tener la oportunidad de conectarnos pron
 
 ### Otros
 - ![Linux](https://img.shields.io/badge/Linux-%23000000?style=flat&logo=linux&labelColor=black&color=%23000000)
-- ![WordPress](https://img.shields.io/badge/WordPress-%23000000?style=flat&logo=wordpress&labelColor=%23ADD8E6&color=%23000000)
+- ![WordPress](https://img.shields.io/badge/WordPress-%23000000?style=flat&logo=wordpress&labelColor=%231E3A8A&color=%231E3A8A)
