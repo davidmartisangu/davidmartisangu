@@ -21,28 +21,31 @@ Gracias por visitar mi perfil, ¡espero tener la oportunidad de conectarnos pron
 ## Tecnologías utilizadas 🛠️
 
 ### Lenguajes
-- <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&labelColor=black&color=blue" alt="Python Badge">
-- ![Java](https://img.shields.io/badge/Java-%23000000?style=flat&logo=java&labelColor=black&color=%23000000)
+- [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+- [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 
 ### Backend 🌐
-- ![Django](https://img.shields.io/badge/Django-%23000000?style=flat&logo=django&labelColor=black&color=%23000000)
+- [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
 - ![Node.js](https://img.shields.io/badge/Node.js-%23000000?style=flat&logo=node.js&labelColor=black&color=%23000000)
-- ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&labelColor=black&color=%234479A1)
+- [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
+- [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
 ### Frontend 🖥️
-- ![HTML5](https://img.shields.io/badge/-HTML5-%23000000?style=flat-square&logo=html5&logoColor=%23E34F26)
-- ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat&logo=css3&labelColor=black&color=%231572B6)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&labelColor=black&color=%23F7DF1E)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat&logo=typescript&labelColor=black&color=%233178C6)
-- ![ReactJS](https://img.shields.io/badge/ReactJS-%2361DAFB?style=flat&logo=react&labelColor=black&color=%2361DAFB)
+- [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+- [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+- [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+- [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+- [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+- [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 
 ### Database 💾
 - [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+- [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 
 ### Control de versiones 🔧
-- ![Git](https://img.shields.io/badge/Git-%23F1502F?style=flat&logo=git&labelColor=black&color=%23F1502F)
+- [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 - ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&labelColor=black&color=%23121011)
 
 ### Otros
 - ![Linux](https://img.shields.io/badge/Linux-%23000000?style=flat&logo=linux&labelColor=black&color=%23000000)
-- ![WordPress](https://img.shields.io/badge/WordPress-%23000000?style=flat&logo=wordpress&labelColor=%231E3A8A&color=%231E3A8A)
+- [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#)
