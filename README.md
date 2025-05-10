@@ -37,7 +37,7 @@ Gracias por visitar mi perfil, ¡espero tener la oportunidad de conectarnos pron
 - ![ReactJS](https://img.shields.io/badge/ReactJS-%2361DAFB?style=flat&logo=react&labelColor=black&color=%2361DAFB)
 
 ### Database 💾
-- ![MongoDB](https://img.shields.io/badge/MongoDB-%23000000?style=flat&logo=mongodb&labelColor=black&color=%23000000)
+- [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 
 ### Control de versiones 🔧
 - ![Git](https://img.shields.io/badge/Git-%23F1502F?style=flat&logo=git&labelColor=black&color=%23F1502F)
